@@ -27,14 +27,6 @@ I am an 18-year-old **Python Developer** and **AI Automation Specialist** from L
 
 ---
 
-### 📊 GitHub Analysis
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairghaffar759&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umairghaffar759)
